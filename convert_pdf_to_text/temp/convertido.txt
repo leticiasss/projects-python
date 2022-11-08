@@ -1,51 +1,18 @@
-VAGA   para quem está em busca de carreira internacional: 
-Cargo: 
-Engenheiro DevSecOps Sênior 
-Experiência na área 
-3 - 6 anos 
-Remoto 
-Requisitos: 
-Inglês avançado 
-Requisitos Técnicos 
-Terraform, Aws 
-Requisitos comportamentais 
-Foco, Boa comunicação, Trabalho em equipe. 
-Experiências: 
-● Experiência com pipelines de CI/CD, gerenciamento de conﬁguração, orquestração de infraestrutura, conteinerização,  
-administração Linux... você sabe, DevOps. 
-●Em particular, experiência com Docker, Terraform, Kubernetes e AWS. 
-● Experiência na implementação e automação de controles de segurança de rede e aplicativos, incluindo conﬁguração de  
-redes seguras, proteção e aplicação de patches de servidor, análise estática/dinâmica e veriﬁcação de vulnerabilidades e  
-monitoramento de ameaças. 
-O que os candidatos NÃO podem ter? 
-● Não pode ser jumpers 
-● Não pode ser um Freelancer 
-Palavras-chave: 
-DevOps| AWS| Desenvolvedor| CI/CD | Segurança 
-Se você  se interessou envia um currículo no e-mail:  
-lmsconsultoriastz@gmail.com. VAGA   para quem está em busca de carreira internacional: 
-Cargo: 
-Engenheiro DevSecOps Sênior 
-Experiência na área 
-3 - 6 anos 
-Remoto 
-Requisitos: 
-Inglês avançado 
-Requisitos Técnicos 
-Terraform, Aws 
-Requisitos comportamentais 
-Foco, Boa comunicação, Trabalho em equipe. 
-Experiências: 
-● Experiência com pipelines de CI/CD, gerenciamento de conﬁguração, orquestração de infraestrutura, conteinerização,  
-administração Linux... você sabe, DevOps. 
-●Em particular, experiência com Docker, Terraform, Kubernetes e AWS. 
-● Experiência na implementação e automação de controles de segurança de rede e aplicativos, incluindo conﬁguração de  
-redes seguras, proteção e aplicação de patches de servidor, análise estática/dinâmica e veriﬁcação de vulnerabilidades e  
-monitoramento de ameaças. 
-O que os candidatos NÃO podem ter? 
-● Não pode ser jumpers 
-● Não pode ser um Freelancer 
-Palavras-chave: 
-DevOps| AWS| Desenvolvedor| CI/CD | Segurança 
-Se você  se interessou envia um currículo no e-mail:  
-lmsconsultoriastz@gmail.com. 
+Arquivo de teste  
+ 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt 
+ut labore et dolore magna aliqua. Imperdiet nulla malesuada pellentesque elit eget gravida 
+cum sociis. Sed odio morbi quis commodo. Adipiscing diam donec adipiscing tristique risus 
+nec feugiat in fermentum. Lorem ipsum dolor sit amet. At augue eget arcu dictum varius 
+duis at consectetur lorem. Donec massa sapien faucibus et. Sem nulla pharetra diam sit 
+amet. Senectus et netus et malesu ada fames ac turpis. Id diam vel quam elementum 
+pulvinar etiam non quam lacus. Diam vulputate ut pharetra sit amet aliquam id diam. Nibh 
+nisl condimentum id venenatis a condimentum. Purus ut faucibus pulvinar elementum 
+integer enim neque. Varius quam quisq ue id diam vel quam elementum. Et magnis dis 
+parturient montes nascetur ridiculus mus mauris. Leo in vitae turpis massa sed elementum 
+tempus egestas.  
+Pellentesque elit ullamcorper dignissim cras. Dictum varius duis at consectetur lorem donec 
+massa sapien. Ante metus dictum at tempor commodo ullamcorper a. Pellentesque sit amet 
+porttitor eget dolor morbi non arcu risus. Tortor at risus viverra adipiscing at in tellus 
+integer. Sit amet commodo nulla facilisi nullam vehicula ipsum a. Sit amet tellus cras 
+adipi scing.  
